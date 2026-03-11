@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml:2:13-83
-INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml:2:13-83
+ADDED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml:2:13-83
+INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml:2:13-83
 	package
-		INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml
+		INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml
 	xmlns:android
-		ADDED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml:2:23-81
+		ADDED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml:2:23-81
 uses-sdk
-INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml reason: use-sdk injection requested
-INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml
-INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml
+INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml
+INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml
 	android:targetSdkVersion
-		INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml
+		INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml
 	android:minSdkVersion
-		INJECTED from /Users/admin/code/rikka_guitar_app/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4543807822373080695.xml
+		INJECTED from /Users/admin/code/MusicLeanApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9083891751949859505.xml
